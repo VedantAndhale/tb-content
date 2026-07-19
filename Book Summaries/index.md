@@ -20,3 +20,4 @@ dv.table(
     })
 );
 ```
+[notitle](../Excalidraw/Drawing%202026-07-19%2013.19.40.excalidraw.md)
