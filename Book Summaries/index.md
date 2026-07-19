@@ -20,4 +20,4 @@ dv.table(
 );
 ```
 
-[Drawing 2026-07-19 13.19.40.excalidraw.md](../Excalidraw/Drawing%202026-07-19%2013.19.40.excalidraw.md)]
+[Drawing 2026-07-19 13.19.40.excalidraw.md](../Excalidraw/Drawing%202026-07-19%2013.19.40.excalidraw.md)
