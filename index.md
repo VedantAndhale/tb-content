@@ -3,9 +3,7 @@ title: Welcome to Quartz
 ---
 Hello world 
 How are you
-
-
-Uy
+**
 Test
 
 This is a blank Quartz installation.
