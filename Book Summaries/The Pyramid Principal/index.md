@@ -1,3 +1,3 @@
 ---
-title: Th
+title: The Pyramid Principal
 ---
