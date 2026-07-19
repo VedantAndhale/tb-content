@@ -1,7 +1,7 @@
 ---
 title: Summary of books
 ---
-```dataview
+```dataviewjs
 const books = dv.pages("#book");
 
 dv.table(
