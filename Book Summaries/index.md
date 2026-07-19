@@ -2,5 +2,5 @@
 title: Summary of books
 ---
 ```dataview
-List from #book
+List title from #book
 ```
